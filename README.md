@@ -6,9 +6,9 @@ Este repositorio es un ejemplo creado para el taller de iniciación a Git y GitH
 
 Antes de venir al taller se recomienda instalar git en local, el recurso para hacerlo puede encontartse [aquí](https://slides.com/elenam-lopez/taller-de-introduccion-a-git-y-github)
 
-Las slides utilizadas en este taller son una versin reducida de las que se utilizan en la versin extendida del mismo. Tienen un acceso gratuito y pueden encontrarse en este [sitio](https://slides.com/elenam-lopez/no-liarla-parda-con-git-x-4)
+Las slides utilizadas en este taller son una versión reducida de las que se utilizan en la versión extendida del mismo. Tienen un acceso gratuíto y pueden encontrarse en este [sitio](https://slides.com/elenam-lopez/no-liarla-parda-con-git-x-4)
 
-Tambien pueden visitarse [estas slides](https://slides.com/elenam-lopez/no-liarla-parda-con-git-x-2) para tener una visión más amplia y son las que se utilizan en el taller más extendido.
+También pueden visitarse [estas slides](https://slides.com/elenam-lopez/no-liarla-parda-con-git-x-2) para tener una visión más amplia y son las que se utilizan en el taller más extendido.
 
 ## ASISTENTES:
 
