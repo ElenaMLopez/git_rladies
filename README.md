@@ -21,6 +21,6 @@ Esta es la lista de asistentes al taller:
 Muchas gracias a todas, esperamos que os haya gustado y practicar mucho!!!
 
 > Agradecimientos:
-> A RLadies pro la oportunidad, a Campus de Google por ofrecer el espacio y los medios para realizar el taller y a las asistentes por su interés y esfuerzo.
+> A RLadies por la oportunidad, a Campus de Google por ofrecer el espacio y los medios para realizar el taller y a las asistentes por su interés y esfuerzo.
 
 ![Thanks](https://media.giphy.com/media/3oEjHWXddcCOGZNmFO/giphy.gif)
