@@ -15,7 +15,9 @@ También pueden visitarse [estas slides](https://slides.com/elenam-lopez/no-liar
 Esta es la lista de asistentes al taller:
 
 1- Pon tu nombre aquí :)
+
 2- ...
+
 3- ...
 
 Muchas gracias a todas, esperamos que os haya gustado y practicar mucho!!!
